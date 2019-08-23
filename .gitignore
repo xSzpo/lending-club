@@ -1,0 +1,37 @@
+# data files 
+*.feather
+*.sqlite
+*.csv
+
+# DOCS
+99_docs
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# pyenv
+.python-version
+
+# Jupyter Notebook
+.ipynb_checkpoints
+__tmp/
+
+# Environments
+.env
+!.env/.gitkeep
+.venv
+!.venv/.gitkeep
+env/
+!env/.gitkeep
+venv/
+!venv/.gitkeep
+
+# others
+_tmp*
+_tmp/
+catboost_info/
+.vscode/*
+.DS_Store
+

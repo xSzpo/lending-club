@@ -1,6 +1,6 @@
 Keras==2.2.4
 pandas==0.25.0
-numpy==1.17.0
+numpy==1.22.0
 scikit-learn==0.21.3
 category_encoders==2.0.0
 mlxtend==0.17.0
